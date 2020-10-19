@@ -17,6 +17,7 @@ To add new icons to the Webmapp Icons follow this steps:
 5. Move all the icons in the same set named `webmapp`
 6. Select all the icons and click the bottom-left button "Generate Font"
 7. Download the font from the same bottom-left button (a specific "Download" button should appears)
+8. Move and substitute all the downloaded files in this repository
 
 ## 3 Built With
 
