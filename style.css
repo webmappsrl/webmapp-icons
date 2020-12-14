@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'webmapp';
-  src:  url('fonts/webmapp.eot?7rui37');
-  src:  url('fonts/webmapp.eot?7rui37#iefix') format('embedded-opentype'),
-    url('fonts/webmapp.ttf?7rui37') format('truetype'),
-    url('fonts/webmapp.woff?7rui37') format('woff'),
-    url('fonts/webmapp.svg?7rui37#webmapp') format('svg');
+  src:  url('fonts/webmapp.eot?qu8mv1');
+  src:  url('fonts/webmapp.eot?qu8mv1#iefix') format('embedded-opentype'),
+    url('fonts/webmapp.ttf?qu8mv1') format('truetype'),
+    url('fonts/webmapp.woff?qu8mv1') format('woff'),
+    url('fonts/webmapp.svg?qu8mv1#webmapp') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.wm-icon-signal_cellular:before {
+  content: "\ea6a";
+}
 .wm-icon-cyc-share:before {
   content: "\ea69";
 }
