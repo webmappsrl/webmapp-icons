@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'webmapp';
-  src:  url('fonts/webmapp.eot?4bh8in');
-  src:  url('fonts/webmapp.eot?4bh8in#iefix') format('embedded-opentype'),
-    url('fonts/webmapp.ttf?4bh8in') format('truetype'),
-    url('fonts/webmapp.woff?4bh8in') format('woff'),
-    url('fonts/webmapp.svg?4bh8in#webmapp') format('svg');
+  src:  url('fonts/webmapp.eot?e8k2f8');
+  src:  url('fonts/webmapp.eot?e8k2f8#iefix') format('embedded-opentype'),
+    url('fonts/webmapp.ttf?e8k2f8') format('truetype'),
+    url('fonts/webmapp.woff?e8k2f8') format('woff'),
+    url('fonts/webmapp.svg?e8k2f8#webmapp') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,33 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.wm-icon-sgt_apps:before {
+  content: "\ea6e";
+}
+.wm-icon-sgt_best-seller:before {
+  content: "\ea6f";
+}
+.wm-icon-sgt_booking:before {
+  content: "\ea70";
+}
+.wm-icon-sgt_cart:before {
+  content: "\ea71";
+}
+.wm-icon-sgt_category:before {
+  content: "\ea72";
+}
+.wm-icon-sgt_hamburger:before {
+  content: "\ea73";
+}
+.wm-icon-sgt_mail:before {
+  content: "\ea74";
+}
+.wm-icon-sgt_phone:before {
+  content: "\ea75";
+}
+.wm-icon-sgt_pin:before {
+  content: "\ea76";
+}
 .wm-icon-cyc_gallery:before {
   content: "\ea6d";
 }
@@ -2039,7 +2066,7 @@
 .wm-icon-pie-graph:before {
   content: "\f2a5";
 }
-.wm-icon-pin:before {
+.wm-icon-pin1:before {
   content: "\f2a6";
 }
 .wm-icon-pinpoint:before {
